@@ -7,7 +7,8 @@ Python3.6.1
 
 tensorflow-gpu==1.12.0
 keras-radam
-imgaug
-# pip install six numpy scipy Pillow matplotlib scikit-image opencv-python imageio Shapely
-# https://github.com/aleju/imgaug
+imgaug (https://github.com/aleju/imgaug)
+opencv-python
+numpy 
+Pillow
 
